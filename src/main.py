@@ -75,7 +75,10 @@ class ShannonEntropy:
 
 
 if __name__ == '__main__':
-    data = ShannonEntropy.shanon_demo(10)
+    data = ShannonEntropy.shanon_demo(50)
+    # Sort data by entropy from higher to lower
+    data.sort(key=lambda x: x['entropy'], reverse=False)
+    
     # Save data to a text file
     with open('shannon_entropy_results.txt', 'w') as f:
         for item in data:
@@ -94,6 +97,7 @@ if __name__ == '__main__':
     plt.xlabel('Entropy')
     plt.ylabel('Title')
     plt.title('Shannon Entropy of Wikipedia Insights')
+    plt.yticks(fontsize=6)
     plt.tight_layout()
     plt.savefig('shannon_entropy_plot.png')  # Save plot to a PNG file
     plt.show()

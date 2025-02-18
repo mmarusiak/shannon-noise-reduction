@@ -1,104 +1,378 @@
-Title: Wang clan of Langya
-Insight: The Wang clan of Langya (or Langye) (Chinese: 琅琊王氏) was a Chinese clan which gained political prominence during the Han dynasty and became one of the most powerful non-imperial clans during the Eastern Jin period.
+Title: Escor Toys
+Insight: S
+Entropy: -0.0
 
+Title: Trifolium alpinum
+Insight:  It is native to the Alps
+Entropy: 3.463465189601647
 
-== History ==
+Title: National Liaison Committee for International Students in Australia
+Insight:  NLC was the peak representative body in Australia for all international students
+Entropy: 4.066848349323456
 
+Title: Robert Mardian
+Insight:  His conviction for conspiracy was overturned because of procedural unfairness and he was not subsequently retried
+Entropy: 4.076863169533715
 
-=== Origins ===
-According to the New Book of Tang, the Wang clan was founded in Langya by Wang Yuan, a great-grandson of Wang Jian, who fled the collapsing Qin dynasty after the death of his father Wang Li (王離) in the battle of Julu. Wang Ji, a fourth-generation descendant of Wang Yuan (王元), served as an official in the Western Han dynasty, becoming the first recorded member of the clan to hold a position in the imperial bureaucracy.
+Title: Australian Venture
+Insight: The Australian Venture is an event for Australian Venturer Scouts. It is their equivalent of a Jamboree, but for Venturers there is a lot more freedom and latitude in what they do
+Entropy: 4.1049558045576475
 
+Title: John Perpich
+Insight:  He served as an assistant coach at the NHL level as well as being a head coach in both the IHL and NCAA.  In 2014 he was hired by Ottawa as a scout
+Entropy: 4.124231481442938
 
-=== Jin dynasty ===
-During the Western Jin period, Wang Rong was a prominent scion of the clan, reaching the rank of Situ
-Entropy: 4.553479875063463
+Title: Yasemin Güler
+Insight: 74 m (5 ft 9 in)-tall sportswoman plays in the right wing position
+Entropy: 4.136615286051863
 
-Title: Rosamund Bartlett
-Insight:  She went on to complete a doctorate at Oxford University.
-Rosamund Bartlett is the author of Tolstoy: A Russian Life (2010) and translated Leo Tolstoy's Anna Karenina for Oxford University Press (2014). She is also the author of Chekhov: Scenes from a Life (2004) and has translated two volumes of Anton Chekhov's short stories
-Entropy: 4.546363256919116
-
-Title: Ami'ad
+Title: James Leroy
 Insight: 
 
 
+== Career ==
+Leroy's music career commenced as a folk singer and songwriter for local bands
+Entropy: 4.1793602947058
+
+Title: Kruger v Coetzee
+Insight: Kruger v Coetzee is an important case in South African law, in particular in the law of delict and on the question of negligence.
+In an action for damages alleged to have been caused by the defendant's negligence, culpa arises, for the purposes of liability, only if a diligens paterfamilias in the position of the defendant not only would have foreseen the reasonable possibility of his conduct injuring another in his person or property and causing him patrimonial loss, but would also have taken reasonable steps to guard against such an occurrence, and if the defendant failed to take such steps.
+Whether a diligens paterfamilias in the position of the person concerned would take any guarding steps at all, and, if so, what steps would be reasonable, must always depend upon the particular circumstances of each case.
+Where the defendant has foreseen the possibility and taken certain steps, the onus is on the plaintiff to prove that there were further steps which he could and should have taken.
+The decision in the Eastern Cape Division, in Coetzee v Kruger, was by this reasoning reversed
+Entropy: 4.245421417483296
+
+Title: The Fated Sky
+Insight:   Set in Norway and Iceland during the Viking period, it depicts the stirring but bleak existence of Dark Age Europeans at a time of insecurity and constant threat from raiders.  The story follows a young woman called Ran from the time she loses her mother in a wolf attack, and a subsequent attempt to kill her as a human sacrifice, to her escape with a blind harper, Toki, to a new life in Iceland
+Entropy: 4.249934207195158
+
+Title: Control fraud
+Insight: Control fraud occurs when a trusted person in a high position of responsibility in a company, corporation, or state subverts the organization and engages in extensive fraud for personal gain.  The term "control fraud" was coined by William K. Black to refer both to the acts of fraud and to the individuals who commit them
+Entropy: 4.268414313615089
+
+Title: Pueblos in Puerto Rico
+Insight:  The concept of pueblo is often used locally as analogous to the concept of downtown in U.S. cities. Pueblos are officially called barrio-pueblo by the United States Census since 1990
+Entropy: 4.288507353704392
+
+Title: Meistersinger
+Insight: A Meistersinger (German for "master singer") was a member of a German guild for lyric poetry, composition and unaccompanied art song of the 14th, 15th and 16th centuries.  The Meistersingers were drawn from middle class males for the most part
+Entropy: 4.3329738992119715
+
+Title: Arnos Grove tube station
+Insight:  The station opened on 19 September 1932 as the most northerly station on the first section of the Piccadilly line extension from Finsbury Park to Cockfosters. It was the terminus of the line until services were further extended to Oakwood on 13 March 1933. When travelling from east of Barons Court and through Central London, Arnos Grove is the first surface station after the long tunnel section of the Piccadilly line
+Entropy: 4.350849563206788
+
+Title: Viger, Hautes-Pyrénées
+Insight:  Exposed to an altered oceanic climate, it is drained by various small rivers. The commune has a remarkable natural heritage: two Natura 2000 sites (the “gaves de Pau and Cauterets (and gorge of Cauterets)” and “granquet-Pibeste and Soum d’Ech”), a protected area (the regional nature reserve of Pibeste-Aoulhet massif) and three natural areas of ecological, fauna and flora interest
+Entropy: 4.391052530653963
+
+Title: Craig Kennedy (politician)
+Insight: 
+
+
+== Early life and education ==
+Kennedy was born in Huron, South Dakota. He earned his bachelor's degree at the University of South Dakota and his Juris Doctor at the University of South Dakota School of Law.
+
+
+== Legal career ==
+He started as a Judicial law clerk for the United States District Court for the District of South Dakota
+Entropy: 4.40511879517806
+
+Title: Natalya Spiridonova (athlete, born 1963)
+Insight:  She competed in the 5000 metres race walk, 10 kilometres race walk and 20 kilometres race walk for the Soviet Union. She competed at the European Athletics Indoor Championships in 1988 European Athletics Indoor Championships, where she placed sixth in the women's 3000 metres walk event
+Entropy: 4.411585003924066
+
+Title: 2016 Speedway European Championship
+Insight: The 2016 Speedway European Championship season was the fourth season of the Speedway European Championship (SEC) era, and the 16th UEM Individual Speedway European Championship. It was the fourth series under the promotion of One Sport Lts
+Entropy: 4.412995345260884
+
+Title: Jackal (The Day of the Jackal)
+Insight: The Jackal is a fictional character, the principal antagonist of the novel The Day of the Jackal by Frederick Forsyth. He is an assassin who is contracted by the OAS French terrorist group of the early 1960s to kill Charles de Gaulle, then President of France. The book was published on 7 June 1971, in the year following de Gaulle's death, and became an instant bestseller
+Entropy: 4.430093197892493
+
+Title: Green payments
+Insight:  The environmental benefits can include protecting wetland as improving filtration or maintaining soil quality to provide a carbon sink.
+The Conservation Security Program that was authorized in the 2002 Farm Bill (P.L
+Entropy: 4.435812600850112
+
+Title: Herbert Gomba
+Insight: Herbert Thomas Gomba (born c. 1977) is a Zimbabwean politician who served as mayor of Harare from 2018 to 2020
+Entropy: 4.437564484855807
+
+Title: Nymphaea hastifolia
+Insight: 
+
+
+== Description ==
+
+
+=== Vegetative characteristics ===
+Nymphaea hastifolia is an annual or perennial aquatic herb  with globose rhizomes. The elliptical floating leaves with sinuate margins are 20 cm long, and 15 cm wide. The adaxial leaf surface is green, but the abaxial leaf surface displays purple colouration.
+
+
+=== Generative characteristics ===
+The emergent flowers are white
+Entropy: 4.437694987113287
+
+Title: Pat Robertson controversies
+Insight: Baptist minister and broadcaster Pat Robertson (1930–2023) had outspoken opinions on religion, politics, and other subjects. Many of his statements have stirred controversy and several have been headline news in the United States and elsewhere. Robertson made many of these comments on his daily talk show, The 700 Club
+Entropy: 4.437729316348091
+
+Title: Lorenzo Carcaterra
+Insight: 
+
+
+== Biography ==
+Carcaterra was born in Hell's Kitchen, Manhattan, New York
+Entropy: 4.440768892199736
+
+Title: Catasetum
+Insight: Catasetum, abbreviated as Ctsm. in horticultural trade, is a genus of showy epiphytic  Orchids, family Orchidaceae, subfamily Epidendroideae, tribe Cymbidieae, subtribe Catasetinae, with currently 200 accepted species, many of which are highly prized in horticulture.
+Species of the genus Catasetum occur from Mexico to Argentina, including much of Central America, the West Indies, and South America
+Entropy: 4.45718730011676
+
+Title: Shocked and Amazed!
+Insight:  Focusing on circus and carnival sideshows and 19th Century dime museum entertainment, the journal also follows the history and characters of vaudeville and burlesque, wax museums and world's fairs, carnivals, circus spectacles, roadside attractions and everything in between. The journal features interviews with the business’ “golden age” performers as well as modern talent and has included original works by the likes of Teller (magician), John Strausbaugh and Frank DeFord and unique reprinted material available previously to only a few show business historians.
+Shocked and Amazed! has been recognized as the leading journal on the business in such venues as The Learning Channel, The History Channel, E!: Entertainment Television, Channel 4 in London, the National Geographic Channel and major network television
+Entropy: 4.461827143642942
+
+Title: Galena, Illinois
+Insight: Galena is the largest city in and the county seat of Jo Daviess County, Illinois, United States. It had a population of 3,308 at the 2020 census. A 581-acre (235 ha) section of the city is listed on the National Register of Historic Places as the Galena Historic District. The city is named for the mineral galena, which was in the ore that formed the basis for the region's early lead mining economy.
+Native Americans, primarily Meskwaki, Ho-Chunk, Sauk, and Menominee had mined galena in the area for more than a thousand years before European Americans settled in the area
+Entropy: 4.467006645069322
+
+Title: Samuel French Morse
+Insight:  The prize was for a first or second book of poems by a U.S. poet, with a $1000 cash award, and publication of the winning manuscript by Northeastern University Press/UPNE
+Entropy: 4.496865273615373
+
+Title: Zé Lucas (footballer, born 1994)
+Insight: 
+
+
+== Club career ==
+Zé Lucas started his career with PSTC of his hometown, before moving to Fluminense in 2012. In his first year with the Laranjeiras-based side, he scored the winning goal against Botafogo to win the youth version of the Taça Guanabara. He was also top scorer in the whole state of Rio de Janeiro.
+He was loaned to Botafogo in 2014, and spent the whole year with the club's youth team
+Entropy: 4.498594553790493
+
+Title: Alain Rolland
+Insight:  He also played for Leinster. He refereed the final of the 2007 Rugby World Cup, and was an assistant referee in the final of the 2011 Rugby World Cup. In September 2013 he announced his intention to retire from refereeing at the end of the 2013/14 season.
+
+
+== Playing career ==
+During his playing days as a scrum-half, Rolland earned three caps for Ireland
+Entropy: 4.4986096783626275
+
+Title: Lansing Art Gallery
+Insight: The Lansing Art Gallery ("LAG") is a nonprofit art gallery located in downtown Lansing, Michigan, USA. LAG  offers a meeting space for other arts organizations, exhibition facilities, memberships for individuals and businesses, art competitions, education outreach, "Art Smart" after-school classes, Art Scholarship Alert, high school competition, summer art camps, workshops, artist demonstrations, and lectures.  In addition to sales, LAG offers art rental/lending, and actively markets those services to local businesses.
+
+
 == History ==
-The founders were a gar'in of 28 young people who were originally from the Youth Aliyah village of Ben Shemen (rescued from Europe before the borders were closed) and a group of youngsters from Kibbutz Hulda. 
-The original plan was to prepare the outpost as a future settlement for demobilized soldiers from the Jewish Brigade of the British Army but instead they decided to settle the outpost themselves
-Entropy: 4.3980857121906265
+The gallery was originally formed in 1965 by a group of local artists, teachers and business people, with the support of Lansing governmental leaders, and was originally known as the Lansing Community Gallery
+Entropy: 4.5215379721962625
 
-Title: Maddalena Fagandini
-Insight: Maddalena Fagandini (30 August 1929 – 29 November 2012) was an English electronic musician and television producer. She was employed by the BBC in the early 1950s, as part of their Italian Service, before becoming part of the pioneering BBC Radiophonic Workshop in 1959. Her work with the Radiophonic Workshop involved creating jingles and interval signals, using musique concrète techniques, for BBC radio and television. She had an important role to play in the coverage of the 1960 Olympics in Rome, due to her bilingual fluency in English and Italian
-Entropy: 4.639696361920724
-
-Title: 1987 KFK competitions (Ukraine)
-Insight: The 1987 KFK competitions in Ukraine were part of the 1987 Soviet KFK competitions that were conducted in the Soviet Union. It was 23rd season of the KFK in Ukraine since its introduction in 1964. The winner eventually qualified to the 1988 Soviet Second League.
+Title: Luis Cequeira
+Insight: Luis Eduardo Cequeira (born February 4, 1985) is an Argentine professional basketball player. He plays at the point guard position. He has been a member of the Argentine national basketball team.
 
 
-== Group stage ==
+== Professional career ==
+Cequeira began his professional career in the Argentine League with Quilmes Mar del Plata during the 2001-02 season
+Entropy: 4.5429600697501975
+
+Title: 2006–07 Wycombe Wanderers F.C. season
+Insight: 
 
 
-=== Group 1 ===
+== Season summary ==
+Wycombe finished solidly in midtable, but their greatest success during the season came in the League Cup. Shock wins against the likes of Fulham and Charlton saw Wycombe reach the semi-finals, where they were drawn against Chelsea. A home draw at Adams Park gave Wycombe fans optimism, but Wycombe were easily beaten 4–0 at Stamford Bridge in the return leg.
 
 
-=== Group 2 ===
+== Players ==
 
 
-=== Group 3 ===
+== Squad ==
+Squad at end of season
+
+Note: Flags indicate national team as defined under FIFA eligibility rules; some limited exceptions apply
+Entropy: 4.564431416478844
+
+Title: Alexander Cools
+Insight: 
+He obtained his Ph.D. under the supervision of Jacques van Rossum and Jo Vossen in 1973 at the Radboud University Nijmegen, where he was a professor from 1985 until his retirement in 2006
+Entropy: 4.569308281047574
+
+Title: Ways to Forget
+Insight: Ways to Forget is the debut studio album of British indie rock group Clock Opera, released on 23 April 2012. Prior to the album, the band made singles for the songs "White Noise," "A Piece of String," "Once and for All" and "Belongings." An EP of "Lesson No.7" was released on 3 October 2011. The first single from the album was a new recording of "Once and for All" on 3 February 2012
+Entropy: 4.571194929061188
+
+Title: List of mayors of Woollahra
+Insight:  First incorporated on 20 April 1860 as the Municipality of Woollahra, under the terms of the Municipalities Act of 1858, the first leaders of the Council were titled "Chairman" until the 1858 act was replaced by the Municipalities Act of 1867, which introduced the title of "Mayor". On 1 July 1993 following the enactment of a new Local Government Act, elected representatives of the council were to be known as "Councillor", replacing the former title of "Alderman".
+
+The mayor is internally-elected by the Councillors, and nominally serves a two-year term since 2017, which replaced the previous system of annual mayoral elections. The current mayor of Woollahra is Councillor Sarah Swan (Liberal), first elected on 9 October 2024
+Entropy: 4.5713713119748265
+
+Title: Vitaly Mutko
+Insight: 
+From 2008 to 2016, he served as the Minister of Sport of Russia.
 
 
-=== Group 4 ===
+== Biography ==
+Mutko was born on 8 December 1958 in the stanitsa of Kurinskaya of Apsheronsky District in Krasnodar Krai in the Soviet Union. He started working as a technician on shipping vessels in 1977
+Entropy: 4.601589497949159
+
+Title: Kamimuragakuenmae Station
+Insight: Kamimuragakuenmae Station (神村学園前駅, Kamimuragakuen-mae-eki)  is a passenger railway station located in the city of  Ichikikushikino, Kagoshima Prefecture, Japan. It is operated by JR Kyushu.
 
 
-=== Group 5 ===
+== Lines ==
+The station is served by the Kagoshima Main Line and is located 363.4 km from the starting point of the line at Mojikō.
 
 
-=== Group 6 ===
+=== Layout ===
+The station consists of one side platform on an embankment, connected to the station building by an elevator
+Entropy: 4.620949677376618
+
+Title: Taçi Oil Cup
+Insight:  The tournament was organized by Albanian businessman Rezart Taçi in cooperation with UNICEF from 2008 to 2010.
 
 
-== Final ==
-The final was taking place in Zakarpattia Oblast (Khust and Vynohradiv).
+== Editions ==
 
 
-== See also ==
-1987 Football Cup of Ukrainian SSR among KFK
+=== 2008 ===
+In the inaugural match, Tirana faced then-FIFA Club World Cup winners Milan. Tirana won the match thanks to the screamers of Xhafaj and Muzaka, while the consolation goal for Milan came from Ronaldinho in the last moments of the match
+Entropy: 4.648576532147081
+
+Title: Mount Liptak
+Insight: Mount Liptak (78°45′S 84°54′W) is a mountain, 3,052 metres (10,013 ft) high with twin summits, located 7 nautical miles (13 km) southeast of Mount Craddock in the Sentinel Range of the Ellsworth Mountains in Antarctica.  It surmounts Bolgrad Glacier to the west and Kornicker Glacier to the east
+Entropy: 4.662340831484783
+
+Title: Jay Abbass
+Insight: Jay Abbass (born 1957) is a lawyer, businessman, former stockbroker and former political figure in Nova Scotia, Canada. He represented Halifax Chebucto in the Nova Scotia House of Assembly from 1993 to 1998 as a Liberal member.
+
+
+== Early life ==
+He was born in Fredericton, New Brunswick and was educated at Saint Mary's University and Dalhousie University.
+
+
+== Political career ==
+Abbass was an unsuccessful candidate for a seat in the provincial assembly in the 1988 election, finishing third in the Halifax Citadel riding
+Entropy: 4.666595996792001
+
+Title: Wayne Bianchin
+Insight: Wayne Richard Bianchin (born September 6, 1953) is a Canadian-born Italian former professional ice hockey Left winger. He played in the National Hockey League for the Pittsburgh Penguins and Edmonton Oilers between 1973 and 1980
+Entropy: 4.676950170380665
+
+Title: Michael M. McCarthy
+Insight: Michael M. McCarthy (April 19, 1845 – January 12, 1914) was a British North America-born US Army soldier who received the Medal of Honor for his actions during the Indian Wars
+Entropy: 4.693007892953823
+
+Title: Polpochila
+Insight: Polpochila is a genus of beetles in the family Carabidae, containing the following species:
+
+Polpochila aguilari Mateu, 2000 
+Polpochila angularis Negre, 1967 
+Polpochila barbata Negre, 1963 
+Polpochila capitata (Chaudoir, 1852) 
+Polpochila chilensis (Chaudoir, 1837) 
+Polpochila darlingtoni Negre, 1963 
+Polpochila erro (Leconte, 1854) 
+Polpochila flavipes (Dejean, 1831)  
+Polpochila hendrichsi Negre, 1967 
+Polpochila impressifrons (Dejean, 1831) 
+Polpochila marginalis Negre, 1963 
+Polpochila minuta Negre, 1963 
+Polpochila monrosi Negre, 1963 
+Polpochila nigra (Gory, 1833) 
+Polpochila pueli Negre, 1963 
+Polpochila reticulata Negre, 1963 
+Polpochila rotundicollis Bates, 1882 
+Polpochila scaritides (Perty, 1830) 
+Polpochila schaumi Negre, 1963 
+Polpochila sulcata Negre, 1963 
+Polpochila venezolana Negre, 1963 
+Polpochila vicina Negre, 1963 
+Polpochila willineri Mateu, 2000
+
+
+== References ==
+Entropy: 4.727932249006448
+
+Title: Rai Futura
+Insight: 
+
+
+== Scheduling ==
+Its programmes were dedicated to cinema, music, video games, comic books and television, politics, and books.
+
+L33T
+Larsen
+Tàbu Show
+Look at You
+Taglia e Cuci
+
+
+== Personalities ==
+From May 30, 2005, to December 26, 2006:
+
+
+== Closing ==
+Rai Future was closed on June 1, 2007 with Rai Doc, due to decision of RAI, and replaced by Rai Gulp on the same frequencies.
+Entropy: 4.813362931917017
+
+Title: Emich Kyrill, Prince of Leiningen
+Insight: Emich Kyrill, Prince of Leiningen (German: Emich Kirill Ferdinand Hermann Fürst zu Leiningen; 18 October 1926 – 30 October 1991) was a German entrepreneur and son of Karl, Prince of Leiningen. He was the 7th Prince of Leiningen from 1946 until his death in 1991.
+
+
+== Early life ==
+Emich was born at Coburg, Weimar Republic, the first child of Karl, Prince of Leiningen (1898–1946), (son of Emich, 5th Prince of Leiningen and Princess Feodore of Hohenlohe-Langenburg) and his wife, Grand Duchess Maria Kirillovna of Russia (1907–1951), (daughter of Grand Duke Kirill Vladimirovich of Russia and Princess Victoria Melita of Edinburgh). Through his mother, he was a descendant of Queen Victoria and Tsar Alexander II
+Entropy: 4.8166707971181415
+
+Title: Loc'd Out
+Insight: Loc'd Out is rapper Goldie Loc's second solo album which was released by 33rd Street Records on March 15, 2005
+
+
+== Track listing ==
+"Gangstas Keep Bumpin They Head" (featuring Kokane and Lebo)
+"New Dice City" (featuring Lebo)
+"Hood Treasury" (featuring Lebo)
+"Future Before Funeral"
+"Railroading"
+"Bang to Da Boogie" (featuring Tray Deee)
+"Glitter Ain't Gold" (featuring Tray Deee, E-White & Delano)
+"Die for You" (featuring J Girl and Bokie Loc)
+"Take You for a Ride" (featuring Bokie Loc)
+"You Don't Know Me Like That" (featuring Lebo)
+"The After Party"
+"Kill a Holiday" (featuring Seven and Boo-Ru)
+"Freak Illusions" (featuring Young Sagg)
+"Keep It Gangsta" (featuring Young Duz and T-Sagg)
+"Bonus Track" (featuring Bokie Loc and Jayo Felony)
+Entropy: 4.883719171360464
+
+Title: Fredrik van der Horst
+Insight: Fredrik van der Horst (Norwegian: [ˈfrɛ̀drɪk fɑn dər ˈhɔʂt] ; born 2 December 1989) is a Norwegian speed-skater. He is the grandson of Hjalmar "Hjallis" Andersen.
+He represented Norway at the 2010 Winter Olympics in Vancouver.
 
 
 == References ==
 
 
 == External links ==
-Group 4: sports
-Entropy: 4.6987224011457
+Fredrik van der Horst at Olympics at Sports-Reference
+Entropy: 4.886305700043496
 
-Title: Ernesto Tornquist
-Insight: Ernesto Carlos Tornquist (31 December 1842 – 17 June 1908) was an Argentine entrepreneur and businessman, considered to be one of the most important entrepreneurs in Argentina at the end of the 19th century.
-The diversified business empire he created played a key role in helping to link Argentina with the trading and financial systems of the first world. Tornquist also founded the Tornquist Bank (Banco de Tornquist), the Plaza Hotel Buenos Aires, the partido of Tornquist and Tornquist its main city, in the south of Buenos Aires Province
-Entropy: 4.451215929222724
+Title: KTLO-LD
+Insight:  It is owned by the News-Press & Gazette Company (NPG) alongside ABC affiliate KRDO-TV (channel 13) and radio stations KRDO (1240 AM) and KRDO-FM (105.5)
+Entropy: 4.936072495742496
 
-Title: Martin Netolický
-Insight: Martin Netolický (born 22 September 1982)
-is a Czech politician who has served as governor of Pardubice Region since 2012. He has been a member of Regional Assembly of Pardubice Region since 2008 and Member of City Assembly of Česká Třebová since 2006.
-specialized mainly in the area of budget law and financing of territorial self-governing units.
+Title: Les Gallagher
+Insight: Alexander Leslie Gallagher (10 July 1904 – 25 August 1973) was an Australian rules footballer who played with St Kilda and Richmond in the Victorian Football League (VFL).
 
 
-== Early life and education ==
-Netolický graduated from Masaryk University, specialising in the area of budget law and financing of territorial self-governing units
-Entropy: 4.6722651768131795
-
-Title: Lirularia redimita
-Insight: Lirularia redimita is a species of small sea snail, a marine gastropod mollusk or micromollusk in the family Trochidae, the top snails.
-
-
-== Description ==
-The height of the shell attains 3⅔ mm, its diameter 4 mm. The depressed, orbicular shell is narrowly perforated. It is greenish-pearly and iridescent. The lirae are ornamented with black
-Entropy: 4.3305150930123455
-
-Title: Thelma Carpenter
-Insight:  She played at clubs such as Kelly's Stables and the Famous Door on legendary 52nd Street, where she was discovered by John Hammond
-Entropy: 4.30647982363243
-
-Title: The Girl Guides Association of Grenada
-Insight:  It serves 2288 members as of 2012. Founded in November 1925, at the Anglican High School (formerly Church of England High School), the girls-only organization became an associate member of the World Association of Girl Guides and Girl Scouts (WAGGGS) in 1990
-Entropy: 4.68816334645901
+== Family ==
+The son of John Gallagher (1850-1935), and Georgina Barbara Gallagher (1862-1933), née Ridgewell, Alexander Leslie Gallagher was born at Warragul on 10 July 1904.
+He married Edna Lillian Turland (1910-1971) in 1936.
+He had 4 Children with Edna, John Leslie (born 31/10/1937 - 28/02/2022), Keith, Bruce and Ruth. 
+His cousin, Norman Henry John "Harry" Weidner (1907-1962), also played VFL football for Richmond
+Entropy: 5.0382311231622
 
