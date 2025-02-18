@@ -21,8 +21,8 @@ $${H = -\sum_i p_i log_2(p_i),}$$
 where ${p_i}$ is the probability of occurrence of the i-th possible value of the source symbol.
 
 From 50 random insights from wiki, we get following result:
-<div style="max-width: 600px; margin-right: auto; margin-left: auto;">
-<img src='./shannon_entropy_plot.png' style="margin-left: auto; margin-right: auto;"/>
+<div style="max-width: 600px; margin-right: auto; margin-left: auto;" align="center">
+<img src='./shannon_entropy_plot.png' width="700" style="margin-left: auto; margin-right: auto;"/>
 </div>
 
 *You can see all scraped data in ``shannon_entropy_results.txt`` file*
@@ -66,17 +66,17 @@ Entropy: 4.245421417483296
 [wiki link](https://en.wikipedia.org/wiki/Kruger_v_Coetzee)
 
 **Why law article has less entropy level than biographical?**
-<div style="display: flex; justify-content: center; max-width: 400px; margin-right: auto; margin-left: auto; margin-bottom:20px;">
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Les_Gallagher_with_wife_Edna_and_son_John.jpg/440px-Les_Gallagher_with_wife_Edna_and_son_John.jpg' style="width: 45%; margin-right: 5%;" />
-    <img src='https://upload.wikimedia.org/wikipedia/commons/d/de/Thabo-mbeki-district-six.jpg' style="width: 45%;" />
+<div style="display: flex; justify-content: center; max-width: 400px; margin-right: auto; margin-left: auto; margin-bottom:20px;" align="center">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Les_Gallagher_with_wife_Edna_and_son_John.jpg/440px-Les_Gallagher_with_wife_Edna_and_son_John.jpg' style="width: 20%; margin-right: 5%;" />
+    <img src='https://upload.wikimedia.org/wikipedia/commons/d/de/Thabo-mbeki-district-six.jpg' style="width: 20%;" />
 </div>
 
 There are many reasons, which will make sense, we just need to think about them. Most of high entropy level insights contain some data represented in numbers. It's clear that they have huge impact on entropy level - probability of numbers are in general not as high as letters. Also in general there will be higher values of total characters, which also will end up in decreasing probability of character ${p_i}$ from formula to calculate entropy. Let's also notice that probability is a value from range ${\langle0;1\rangle}$.
 Let's take a deep look at single sum element, "sum element of entropy" which looks like that:
 $${p_ilog_2(p_i),}$$
 in point ${p_i \sim 0,3678}$ sum of element is the lowest (so for our end sum it will count the most, because of minus sign) and is equal to ${\sim -0,52}$.
-<div style="max-width: 400px; margin-right: auto; margin-left: auto;">
-<img src='./Screenshot 2025-02-19 at 00.08.51.png' style="margin-left: auto; margin-right: auto;"/>
+<div style="max-width: 400px; margin-right: auto; margin-left: auto;" align="center">
+<img src='./Screenshot 2025-02-19 at 00.08.51.png' style="margin-left: auto; margin-right: auto;" width="300"/>
 </div>
 
 It means that to get most valuable data in point of view entropy, so with highest entropy we need to try to obtain 0,3678 probability for each character. It means we need to distribute characters equally.
