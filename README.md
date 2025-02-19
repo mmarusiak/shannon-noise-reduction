@@ -8,6 +8,7 @@ The goal of Shannon noise reduction is to improve the quality of a signal by min
 
 ## Key Concepts
 
+
 - **Entropy**: A measure of the unpredictability or randomness in a data set. Higher entropy indicates more randomness, while lower entropy indicates more predictability.
 - **Noise**: Unwanted or irrelevant data that can obscure or distort the important information in a signal.
 - **Signal**: The important information that needs to be preserved and transmitted.
@@ -16,9 +17,11 @@ The goal of Shannon noise reduction is to improve the quality of a signal by min
 
 I've made little demonstration application for Shanon noise reduction.
 First we get some random wiki articles to have some sample data. From them we are getting title and page content. However for our usage we will use smaller parts of page content called "insights". Then we calculate entropy for desired insight.
-We calculate entropy by following formula:
-$${H = -\sum_i p_i log_2(p_i),}$$
-where ${p_i}$ is the probability of occurrence of the i-th possible value of the source symbol.
+We calculate entropy by following formula:  
+<p style = 'text-align:center'>
+$${H = -\sum_i p_i log_2(p_i),}$$  
+</p>
+where $${p_i}$$ is the probability of occurrence of the i-th possible value of the source symbol.
 
 From 50 random insights from wiki, we get following result:
 <div style="max-width: 600px; margin-right: auto; margin-left: auto;" align="center">
@@ -73,7 +76,8 @@ Entropy: 4.245421417483296
 
 There are many reasons, which will make sense, we just need to think about them. Most of high entropy level insights contain some data represented in numbers. It's clear that they have huge impact on entropy level - probability of numbers are in general not as high as letters. Also in general there will be higher values of total characters, which also will end up in decreasing probability of character ${p_i}$ from formula to calculate entropy. Let's also notice that probability is a value from range ${\langle0;1\rangle}$.
 Let's take a deep look at single sum element, "sum element of entropy" which looks like that:
-$${p_ilog_2(p_i),}$$
+<p style='text-align:center'>$${p_ilog_2(p_i),}$$</p>
+
 in point ${p_i \sim 0,3678}$ sum of element is the lowest (so for our end sum it will count the most, because of minus sign) and is equal to ${\sim -0,52}$.
 <div style="max-width: 400px; margin-right: auto; margin-left: auto;" align="center">
 <img src='./Screenshot 2025-02-19 at 00.08.51.png' style="margin-left: auto; margin-right: auto;" width="300"/>
@@ -101,10 +105,14 @@ Let's take a look now on plotted noisy data and normal data:
 
 It's clear that noisy data has higher value of entropy - they are more random! So "most valuable data" in point of view of entropy is not our desired data. How can we determine whether data is clean and is informative and whether it should be cleaned?
 So there are 2 solutions:
-1. 'Scientific' soultion: $${threshold = µ + kσ} \\
-µ - mean ~ of~ entropy~ values\\
-σ - standard~ deviation~of~entropy~values\\
-k - noise ~ constant$$
+1. 'Scientific' soultion: 
+<p style='text-align:center;'>
+    $${threshold = µ + kσ}$$
+$${µ - mean ~ of~ entropy~ values}$$
+$${σ - standard~ deviation~of~entropy~values}$$
+$${k - noise ~ constant}$$
+</p>
+
 2. Try to determine cut off point from data.
 
 *Let's dive into scientific soultion for start.*
@@ -160,6 +168,8 @@ Raw_entropy: 4.8166707971181415
 Unnoised_insight: emich kyrill prince leiningen german emich kirill ferdinand hermann frst zu leiningen october october german entrepreneur son karl prince leiningen th prince leiningen death
 Unnoised_entropy: 3.893265081780165
 ````
+*You can find unnoised data in ``unnoised_data.txt``*
+
 
 While I'm not certainly sure if we should also remove numbers, most of data is still very informative and is less noisy. Method seems to work fine, noise reduction system and cut off points can and obviously should be fine-tuned for optimal performance and results! 
 
