@@ -1,0 +1,30 @@
+Title: Emich Kyrill, Prince of Leiningen
+Raw_insight: Emich Kyrill, Prince of Leiningen (German: Emich Kirill Ferdinand Hermann Fürst zu Leiningen; 18 October 1926 – 30 October 1991) was a German entrepreneur and son of Karl, Prince of Leiningen. He was the 7th Prince of Leiningen from 1946 until his death in 1991.
+Raw_entropy: 4.8166707971181415
+Unnoised_insight: emich kyrill prince leiningen german emich kirill ferdinand hermann frst zu leiningen october october german entrepreneur son karl prince leiningen th prince leiningen death
+Unnoised_entropy: 3.893265081780165
+
+Title: Loc'd Out
+Raw_insight: Loc'd Out is rapper Goldie Loc's second solo album which was released by 33rd Street Records on March 15, 2005
+Raw_entropy: 4.883719171360464
+Unnoised_insight: locd rapper goldie locs second solo album released rd street records march
+Unnoised_entropy: 3.7449463013071673
+
+Title: Fredrik van der Horst
+Raw_insight: Fredrik van der Horst (Norwegian: [ˈfrɛ̀drɪk fɑn dər ˈhɔʂt] ; born 2 December 1989) is a Norwegian speed-skater. He is the grandson of Hjalmar "Hjallis" Andersen.
+Raw_entropy: 4.886305700043496
+Unnoised_insight: fredrik van der horst norwegian frdrk fn dr ht born december norwegian speedskater grandson hjalmar hjallis andersen
+Unnoised_entropy: 4.003672074865901
+
+Title: KTLO-LD
+Raw_insight: It is owned by the News-Press & Gazette Company (NPG) alongside ABC affiliate KRDO-TV (channel 13) and radio stations KRDO (1240 AM) and KRDO-FM (105.5)
+Raw_entropy: 4.936072495742496
+Unnoised_insight: owned newspress gazette company npg alongside abc affiliate krdotv channel radio stations krdo krdofm
+Unnoised_entropy: 4.1739246280621884
+
+Title: Les Gallagher
+Raw_insight: Alexander Leslie Gallagher (10 July 1904 – 25 August 1973) was an Australian rules footballer who played with St Kilda and Richmond in the Victorian Football League (VFL).
+Raw_entropy: 5.0382311231622
+Unnoised_insight: alexander leslie gallagher july august australian rules footballer played st kilda richmond victorian football league vfl
+Unnoised_entropy: 4.09918785512485
+

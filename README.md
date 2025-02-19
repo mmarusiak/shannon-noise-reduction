@@ -83,7 +83,87 @@ It means that to get most valuable data in point of view entropy, so with highes
 If there is no obvious pattern it also helps to get higher entropy.
 More diverse data means higher entropy - it is clear from graph above that turning point of sum element is closer to 0 than to 1. So in general it is preffered to have more characters, to lower "slide" all sum elements in direction of 0, to try and get all sum elements as close to turning point as possible.
 We can see that biographical insight has a lot of numbers, a lot of unique symbols and patterns, but in law section there is almost only text which even for human is not easy to read I think!
+However most informative data is not data which has highest entropy level. I generated noisy data, each 100 characters long. Each data was random and looked like that:
+
+````
+Title: noise 15
+Insight: WA*)Q5McIMCwWBs*h%`u?*0nrapY5iq2%GVAS1TgF^^BrdBiu2!N'^u!1EsJ0PvHXR8U1531MHt9*Ui*MS5Br`C^.s(fJY'1EpJ7
+Entropy: 5.553919005177815
+````
+*You can find noisy data in ``noisy_data.txt``*
+
+Let's take a look now on plotted noisy data and normal data:
+
+<div style="display: flex; justify-content: center;margin-right: auto; margin-left: auto; margin-bottom:20px;" align="center">
+    <img src='./shannon_entropy_plot.png' style="width: 50%; margin-right: 5%;" />
+    <img src='./noisy_data_plot.png' style="width: 50%;" />
+</div>
+
+It's clear that noisy data has higher value of entropy - they are more random! So "most valuable data" in point of view of entropy is not our desired data. How can we determine whether data is clean and is informative and whether it should be cleaned?
+So there are 2 solutions:
+1. 'Scientific' soultion: $${threshold = µ + kσ} \\
+µ - mean ~ of~ entropy~ values\\
+σ - standard~ deviation~of~entropy~values\\
+k - noise ~ constant$$
+2. Try to determine cut off point from data.
+
+*Let's dive into scientific soultion for start.*
+Mean formula is pretty simple and stragiht forward, but standart deviation is more complicated. It looks like that:
+
+<div style="max-width: 400px; margin-right: auto; margin-left: auto;" align="center">
+<img src='./Screenshot 2025-02-19 at 12.24.48.png' style="margin-left: auto; margin-right: auto;" width="300"/>
+</div>
+
+For our data set from wikipedia I got following results:
+$${
+Mean ~Entropy: 4.469837859723491} \\
+{Standard ~Deviation: 0.2667706257980162}
+$$
+
+So we can see that sum of mean entropy and standard deviation will catch some high entropy insights (to be precise top 6 of insights).
+Now it is up to us to determine our noise constant. Higher noise constant means less noise filtering.
+Probably setting noise constant to value close to 1.3 - 1.5 will be perfect, but it depends on data set and on how we want to fight with noisy data.
+
+*How we will end up determining cut off in empirical way?*
+So here it is hard to say exact cut off point, but it would be point in between 5 - 5.4 for cleaning only noise data. So we are not off our scientific approach, however I generated only very noisy data. There is no typical 'noise data' f.e. 'SALE!!!!!!! BUY NOW!!!!!' etc. So we could set cut off point even lower because of noise set data imperfections - then it will match very close scientific measured cut off point!
+
+
+We can also easily notice that infomrations with entropy level at least 3.5 are important and prefferd ones have probably entropy level greater than 4.0.
+
+## Ideas for noise reduction
+
+When we detect noisy data, our goal is to reduce the noise while preserving the important information. 
+One easy approach I can think of is to:
+
+1. Filter meaningless words using stopwords from NLTK.
+2. Remove symbols, numbers, and extra whitespace.
+
+Example of stopwords, in the sentence:
+"The cat is sitting on the mat."
+Removing stop words gives:
+"cat sitting mat"
+This keeps only the important words for analysis.
+
+**Outcome**
+By setting noise constant to 1.3, we get following results:
+
+<div style="margin-right: auto; margin-left: auto;" align="center">
+<img src='./unnoised_entropy_comparison.png' style="margin-left: auto; margin-right: auto;" width="500"/>
+</div>
+
+Data looks like that:
+
+````
+Title: Emich Kyrill, Prince of Leiningen
+Raw_insight: Emich Kyrill, Prince of Leiningen (German: Emich Kirill Ferdinand Hermann Fürst zu Leiningen; 18 October 1926 – 30 October 1991) was a German entrepreneur and son of Karl, Prince of Leiningen. He was the 7th Prince of Leiningen from 1946 until his death in 1991.
+Raw_entropy: 4.8166707971181415
+Unnoised_insight: emich kyrill prince leiningen german emich kirill ferdinand hermann frst zu leiningen october october german entrepreneur son karl prince leiningen th prince leiningen death
+Unnoised_entropy: 3.893265081780165
+````
+
+While I'm not certainly sure if we should also remove numbers, most of data is still very informative and is less noisy. Method seems to work fine, noise reduction system and cut off points can and obviously should be fine-tuned for optimal performance and results! 
+
 
 ## Conclusion
 
-In conclusion, Shannon noise reduction can be an effective method for identifying and filtering out noise from a signal by analyzing the entropy levels. Higher entropy indicates more randomness and potentially more valuable information, while lower entropy suggests predictability and less useful data. However, I'm not certainly sure if this method may not be sufficient on its own. There could be other noise filtering techniques that might complement Shannon noise reduction to achieve better results. Further research and experimentation with additional filters could help in refining the noise reduction process and improving the overall quality of the signal.
+In conclusion, Shannon noise reduction can be an effective method for identifying and filtering out noise from a signal by analyzing the entropy levels. Higher entropy indicates more randomness and potentially more valuable information, while lower entropy suggests predictability and less useful data. However, I'm not certainly sure if this method may not be sufficient on its own. There could be other noise filtering techniques that might complement Shannon noise reduction to achieve better results.
