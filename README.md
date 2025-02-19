@@ -100,8 +100,8 @@ Entropy: 5.553919005177815
 Let's take a look now on plotted noisy data and normal data:
 
 <div style="display: flex; justify-content: center;margin-right: auto; margin-left: auto; margin-bottom:20px;" align="center">
-    <img src='./shannon_entropy_plot.png' style="width: 50%; margin-right: 5%;" />
-    <img src='./noisy_data_plot.png' style="width: 50%;" />
+    <img src='./shannon_entropy_plot.png' style="width: 40%; margin-right: 5%;" />
+    <img src='./noisy_data_plot.png' style="width: 40%;" />
 </div>
 
 It's clear that noisy data has higher value of entropy - they are more random! So "most valuable data" in point of view of entropy is not our desired data. How can we determine whether data is clean and is informative and whether it should be cleaned?
