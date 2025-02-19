@@ -29,7 +29,7 @@ From 50 random insights from wiki, we get following result:
 <img src='./shannon_entropy_plot.png' width="700" style="margin-left: auto; margin-right: auto;"/>
 </div>
 
-*You can see all scraped data in ``shannon_entropy_results.txt`` file*
+*You can see all scraped data in [``shannon_entropy_results.txt`` file](./shannon_entropy_results.txt)*
 
 We can see that last insight has almost 0 entropy and that's actually because scraped data called "Escor Toys" looks following:
 ````
@@ -95,7 +95,7 @@ Title: noise 15
 Insight: WA*)Q5McIMCwWBs*h%`u?*0nrapY5iq2%GVAS1TgF^^BrdBiu2!N'^u!1EsJ0PvHXR8U1531MHt9*Ui*MS5Br`C^.s(fJY'1EpJ7
 Entropy: 5.553919005177815
 ````
-*You can find noisy data in ``noisy_data.txt``*
+*You can find noisy data in [``noisy_data.txt`` file](./noisy_data.txt)*
 
 Let's take a look now on plotted noisy data and normal data:
 
@@ -169,7 +169,7 @@ Raw_entropy: 4.8166707971181415
 Unnoised_insight: emich kyrill prince leiningen german emich kirill ferdinand hermann frst zu leiningen october october german entrepreneur son karl prince leiningen th prince leiningen death
 Unnoised_entropy: 3.893265081780165
 ````
-*You can find unnoised data in ``unnoised_data.txt``*
+*You can find unnoised data in [``unnoised_data.txt`` file](./unnoised_data.txt)*
 
 
 While I'm not certainly sure if we should also remove numbers, most of data is still very informative and is less noisy. Method seems to work fine, noise reduction system and cut off points can and obviously should be fine-tuned for optimal performance and results! 
