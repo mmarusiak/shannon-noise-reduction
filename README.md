@@ -116,7 +116,7 @@ $${k - noise ~ constant}$$
 
 2. Try to determine cut off point from data.
 
-*Let's dive into scientific soultion for start.*
+*Let's dive into scientific soultion for start.*  
 Mean formula is pretty simple and stragiht forward, but standart deviation is more complicated. It looks like that:
 
 <div style="max-width: 400px; margin-right: auto; margin-left: auto;" align="center">
@@ -133,8 +133,8 @@ So we can see that sum of mean entropy and standard deviation will catch some hi
 Now it is up to us to determine our noise constant. Higher noise constant means less noise filtering.
 Probably setting noise constant to value close to 1.3 - 1.5 will be perfect, but it depends on data set and on how we want to fight with noisy data.
 
-*How we will end up determining cut off in empirical way?*
-So here it is hard to say exact cut off point, but it would be point in between 5 - 5.4 for cleaning only noise data. So we are not off our scientific approach, however I generated only very noisy data. There is no typical 'noise data' f.e. 'SALE!!!!!!! BUY NOW!!!!!' etc. So we could set cut off point even lower because of noise set data imperfections - then it will match very close scientific measured cut off point!
+*How we will end up determining cut off in empirical way?*  
+It is hard to determine exact cut off point, but it would be point in between 5 - 5.4 for cleaning only noise data. We are close to our scientific approach, however it is important to note that I generated only very noisy data (to precise noisy data is raw noise). There is no typical noise data that we see in real world f.e. 'SALE!!!!!!! BUY NOW!!!!!' etc. knowing that we could set cut off point even lower - then it will match very close scientific measured cut off point almost perfectly!
 
 
 We can also easily notice that infomrations with entropy level at least 3.5 are important and prefferd ones have probably entropy level greater than 4.0.
