@@ -21,7 +21,8 @@ We calculate entropy by following formula:
 <p style = 'text-align:center'>
 $${H = -\sum_i p_i log_2(p_i),}$$  
 </p>
-where $${p_i}$$ is the probability of occurrence of the i-th possible value of the source symbol.
+
+where ${p_i}$ is the probability of occurrence of the i-th possible value of the source symbol.
 
 From 50 random insights from wiki, we get following result:
 <div style="max-width: 600px; margin-right: auto; margin-left: auto;" align="center">
