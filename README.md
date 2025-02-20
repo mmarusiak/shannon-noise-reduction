@@ -117,7 +117,7 @@ $${k - noise ~ constant}$$
 2. Try to determine cut off point from data.
 
 *First, let's dive into scientific soultion.*  
-Mean formula is pretty simple and stragiht forward, but standart deviation is more complicated. It looks like that:
+Mean formula is pretty simple and stragiht forward, but standard deviation is more complicated. It looks like that:
 
 <div style="max-width: 400px; margin-right: auto; margin-left: auto;" align="center">
 <img src='./Screenshot 2025-02-19 at 12.24.48.png' style="margin-left: auto; margin-right: auto;" width="300"/>
@@ -134,7 +134,7 @@ Now it is up to us to determine our noise constant. Higher noise constant means 
 Probably setting noise constant to value close to 1.3 - 1.5 will be perfect, but it depends on data set and on how we want to fight with noisy data.
 
 *How we will end up determining cut off in empirical way?*  
-It is hard to determine exact cut off point, but it would be point in between 5 - 5.4 for cleaning only noise data. We are close to our scientific approach, however it is important to note that I generated only very noisy data (to precise noisy data is raw noise). There is no typical noise data that we see in real world f.e. 'SALE!!!!!!! BUY NOW!!!!!' etc. knowing that we could set cut off point even lower - then it will match very close scientific measured cut off point almost perfectly!
+It is hard to determine exact cut off point, but it would be point in between 5 - 5.4 for cleaning only noise data. We are close to our scientific approach, however it is important to note that I generated only very noisy data (to be precise noisy data is raw noise). There is no typical noise data that we see in real world f.e. 'SALE!!!!!!! BUY NOW!!!!!' etc. knowing that we could set cut off point even lower - then it will match very close scientific measured cut off point almost perfectly!
 
 
 We can also easily notice that infomrations with entropy level at least 3.5 are important and prefferd ones have probably entropy level greater than 4.0.
@@ -147,13 +147,13 @@ One easy approach I can think of is to:
 1. Filter meaningless words using stopwords from NLTK.
 2. Remove symbols, numbers, and extra whitespace.
 
-Example of stopwords, in the sentence:
-"The cat is sitting on the mat."
-Removing stop words gives:
-"cat sitting mat"
-This keeps only the important words for analysis.
+*Example of stopwords, in the sentence:  
+"The cat is sitting on the mat."  
+Removing stop words gives:  
+"cat sitting mat"  
+This keeps only the important words for analysis.*  
 
-**Outcome**
+**Outcome**  
 By setting noise constant to 1.3, we get following results:
 
 <div style="margin-right: auto; margin-left: auto;" align="center">
